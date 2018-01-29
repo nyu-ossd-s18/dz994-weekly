@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+I'm a current junior majoring in Computer Science at CAS.
 
 ### More Information
 
