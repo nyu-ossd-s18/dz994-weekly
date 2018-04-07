@@ -7,4 +7,9 @@
 | 8 | [Pull Request](https://github.com/joannakl/cs480_s18/pull/67) Fixing Link to VC Slides | Course Website
 | 8 | Pull Request [Comment](https://github.com/joannakl/cs480_s18/pull/54) | Course Website
 | 8 | Updated [The Flame's Daughter](https://en.wikipedia.org/w/index.php?title=The_Flame%27s_Daughter&oldid=832446560) Character Profiles | Wikipedia
-| 9 | Comment on [Phaser3 Example Issue](https://github.com/photonstorm/phaser3-examples/issues/66) | Other 
+| 9 | Comment on [Phaser3 Example Issue](https://github.com/photonstorm/phaser3-examples/issues/66) | Other
+| 10 | |Commented a fix for a [Phaser 3 example issue](https://github.com/photonstorm/phaser3-examples/issues/104) and sent in a [pull request](https://github.com/photonstorm/phaser3-examples/pull/107)
+
+ Other |
+| 10 | Found a file that no that no longer exists [comment](https://github.com/photonstorm/phaser3-examples/issues/100)| Other |
+ 
