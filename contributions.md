@@ -10,4 +10,6 @@
 | 9 | Comment on [Phaser3 Example Issue](https://github.com/photonstorm/phaser3-examples/issues/66) | Other
 | 10 | Commented a fix for a [Phaser 3 example issue](https://github.com/photonstorm/phaser3-examples/issues/104) and sent in a [pull request](https://github.com/photonstorm/phaser3-examples/pull/107) | Other |
 | 10 | Found a file that no that no longer exists [comment](https://github.com/photonstorm/phaser3-examples/issues/100)| Other |
- 
+| 11 | [Comment](https://github.com/photonstorm/phaser3-examples/issues/109) in attempt to clarify issue | Other |
+| 11 | Commented a fix for a [Phaser 3 example issue](https://github.com/photonstorm/phaser3-examples/issues/17) and sent in a [pull request](https://github.com/photonstorm/phaser3-examples/pull/115) | Other |
+| 11 | physics static group - [Comment](https://github.com/photonstorm/phaser3-examples/issues/108) fix and submitted a [pull request](https://github.com/photonstorm/phaser3-examples/pull/117) rendered unnecessary by update in Phaser | Other |
