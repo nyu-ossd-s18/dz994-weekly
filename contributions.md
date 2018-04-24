@@ -17,3 +17,4 @@
 | 13 | Updated some descriptions on [The Good Place](https://en.wikipedia.org/w/index.php?title=The_Good_Place&oldid=837967146) | Wikipedia |
 | 13 | [comment](https://github.com/photonstorm/phaser3-examples/issues/126) on partial fix of Phaser3-Example | Other |
 | 13 | Found [issue](https://github.com/photonstorm/phaser3-examples/issues/27) was duplicated | Other |
+| 13 | [Comment](https://github.com/photonstorm/phaser3-examples/issues/130) pointing to the right link | Other |
